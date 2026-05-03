@@ -6,7 +6,9 @@ langchain-core
 langchain-text-splitters
 langgraph
 openai
-chromadb
+chromadb==0.4.24
+protobuf==4.25.3
+grpcio==1.62.1
 yfinance
 requests
 pandas
